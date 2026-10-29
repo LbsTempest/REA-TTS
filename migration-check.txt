@@ -1,3 +1,0 @@
-REA-TTS standalone repository
-Source: LbsTempest/REA-TTS
-Migration: 2026-10-29
